@@ -1,0 +1,16 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "create-block/blank-tmp",
+	"version": "0.1.0",
+	"title": "Blank Tmp",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Example block scaffolded with Create Block tool.",
+	"example": {},
+	"supports": {
+		"html": false
+	},
+	"textdomain": "blank-tmp",
+	"editorScript": "file:./index.js"
+}
